@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tamiris\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tamiris\\.nuget\\packages"
+    ]
+  }
+}
